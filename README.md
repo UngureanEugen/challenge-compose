@@ -11,7 +11,7 @@ Build a puppy adoption app! The app should contain an overview screen that displ
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? --> 
-
+The scope was to learn more about compose. 
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
