@@ -10,4 +10,11 @@
       the License.
       -->
     <string name="app_name">AndroidDevChallenge</string>
+    <string name="pets_overview_screen">Pets</string>
+    <string name="pet_detail_screen">My name is %s!</string>
+    <string name="pet_image_content_description">Pet image</string>
+    <string name="action_contact">Contact</string>
+    <string name="pet_breed">Breed</string>
+    <string name="pet_color">Color</string>
+    <string name="pet_age">Age</string>
 </resources>
